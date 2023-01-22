@@ -7,9 +7,12 @@ _____
 **Be excellent to each other**. If a participant is, in our sole discretion, harassing or otherwise unacceptably impacting other participants' ability to enjoy ETHPorto, we at all times reserve the right to remove the offending person(s) from the event without refund.
 _____
 
+<br>
+
 ### Don't Shill
 ETHPorto is designed with and for the community - **we aim to create a welcoming, collaborative space which allows for great networking opportunities. Please respect this space and the opportunity it affords by not aggressively shilling ICOs, investment opportunities, or financial products.** If unsure, please ask the staff.
 
+<br>
 
 ### Harassment Policy
 We do not condone any form of harassment against any participant, for any reason.
@@ -22,8 +25,12 @@ This Code of Conduct applies to everyone participating at ETHPorto - from attend
 
 Anyone can report harassment. If you were or are being harassed, notice that someone else was or is being harassed, or have any other concerns related to harassment, you can contact a ETHPorto volunteer or staff member, make a report at the registration desk or info booth, or submit a complaint to hello@ethporto.org.
 
+<br>
+
 ### Approved Swag Only
 **Only pre-approved teams are authorized to distribute swag (clothing, sales, freebies, or any form of promotional material) at ETHPorto.** Examples of permitted groups include the ETHPorto organizing team, and some of the other pre-approved event organizers. Please respect this decision. If you are unsure of whether you are allowed to distribute your swag, ask the staff.
+
+<br>
 
 ### Wifi Etiquette
 We want all attendees to be able to enjoy fast, reliable WiFi. As such, please keep the following in mind:
@@ -31,6 +38,7 @@ We want all attendees to be able to enjoy fast, reliable WiFi. As such, please k
 - *No Private WiFi access points*
 - *No Private DHCP servers*
 
+<br>
 
 ### Media Policy
 At ETHPorto we aim to respect the privacy of our attendees. It is important for you to review the ETHPorto Media Policy and to ensure you understand and follow it.
@@ -39,11 +47,17 @@ Be Respectful to Speakers (and audiences)
 
 Be mindful of your volume when you're in or near event venues. Noise levels can quickly get out of control and become disruptive to the programme going on inside! Please respect the speakers and participants if you are arriving late to an event and/or getting up to leave an event early — try to cause as little disruption as possible.
 
+<br>
+
 ### Local Laws
 You must comply with all venue and facility rules and regulations during your participation at ETHPorto, including all safety instructions and requirements. It is also very important to note that **ALL** attendees are expected to conform to **ALL** local laws, including Covid-19 restrictions and policies imposed by the venue, facility, and/or local authorities.
 
+<br>
+
 ### How to Report
 If you notice any violations of this Code of Conduct please report them to [hello@ethporto.org](mailto:hello@ethporto.org).
+
+<br>
 
 #### Remember
 ETHPorto is what you make of it, and as a community we can create a safe, meaningful, and incredible experience for everyone!
